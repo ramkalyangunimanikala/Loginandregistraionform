@@ -28,7 +28,6 @@
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
@@ -90,3 +89,5 @@ MySQL Database Setup<br>
  - [Mysql](https://www.Mysql.com/) - Database
  - [java](https://www.java.com/) - backend
  - [Html](https://www.Html.com/) - Frontend
+ ## Acknowledgments
+ *Thanking You
